@@ -1,0 +1,54 @@
+First round questions .
+
+what is the derivative of (3x^2)?
+a.12
+b.6x
+c.2c
+d.x^2
+The right answer is 'b'
+what is the integration of 6 dx ?
+a.6x
+b.5x
+c.23
+d.6
+The right answer is 'a'
+calculate : 3*4? 
+a.7
+b.32
+c.6
+d.12
+The right answer is 'd'
+calculate 15/3 
+a.5
+b.4
+c.10
+d.3
+The right answer is 'a'
+
+Second round questions .
+
+What is the deravative of x^3 + 9?
+a.x^2
+b.3x^3
+c.3x^2
+d.3x^2+9
+The right answer is 'c'
+What is the integration of 3x^2 + 9?
+a.x+9
+b.x^2+9
+c.6d
+d.x^3+9x
+The right answer is 'd'
+The area of Rectangle which it's L=4 and W=3?
+a.10
+b.12
+c.7
+d.9
+ The right answer is 'b'
+This (7 * 10) / 2  give us ?
+a.30
+b.35
+c.40
+d.45
+The right answer is 'b'
+
